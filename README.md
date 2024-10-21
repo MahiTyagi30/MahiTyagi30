@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋, I'm Mahi Tyagi</h1>
-<h3 align="center">A Full Stack Web Developer | Java Programmer</h3>
+<h3 align="center">A Full Stack Web Developer | Java Programmer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahityagi30&label=Profile%20views&color=0e75b6&style=flat" alt="mahityagi30" /> </p>
 
