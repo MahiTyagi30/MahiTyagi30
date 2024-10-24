@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Reactjs,MERN,Nodejs,Javascript**
+- 💬 Ask me about **Reactjs , MERN , Nodejs , Javascript**
 
 - 📫 How to reach me **mahityagi2003@gmail.com**
 
